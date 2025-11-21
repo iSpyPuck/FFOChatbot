@@ -13,7 +13,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # File to read the bot's persona or other configurations
-FILE_PATH = "FFOoutput (1).txt"
+FILE_PATH = "FFOinfo.txt"
 
 # Define a default persona for the bot
 DEFAULT_PERSONA = """
