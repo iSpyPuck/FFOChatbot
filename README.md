@@ -1,7 +1,3 @@
-Here’s a clean and simple README you can drop into your repo for an FFO chatbot. It’s written in a natural, conversational way and avoids buzzwords or em dashes.
-
----
-
 # FFO Chatbot
 
 This project is a Python based chatbot designed to help users interact with FFO data and tools in a simple and friendly way. The bot reads from a text file that defines its behavior, uses environment variables for API keys, and can be extended with more features as you grow the project.
@@ -81,7 +77,3 @@ Feel free to open issues or pull requests. Improvements, bug fixes, and new idea
 ## License
 
 MIT License
-
----
-
-If you want, I can also make a matching `behavior.txt`, `requirements.txt`, or the whole GitHub package laid out.
